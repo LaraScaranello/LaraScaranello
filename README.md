@@ -21,8 +21,6 @@ Educação
 
 💻 Graduação pela Fatec Rio Preto em **Análise e Desenvolvimento de Sistemas (ADS)**
 
----
-
 # 🚀 Tecnologias
 
 ![](https://raw.githubusercontent.com/LaraScaranello/LaraScaranello/main/profile-summary-card-output/aura/1-repos-per-language.svg)
@@ -114,7 +112,6 @@ Educação
 
 💌 **laraselena0911@gmail.com**
 
----
 
 <div align="center">
 
