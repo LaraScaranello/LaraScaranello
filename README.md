@@ -6,8 +6,6 @@ Tenho experiência no desenvolvimento de **aplicações web e mobile**, atuando 
 
 🚀 Gosto de aprender novas tecnologias, explorar ferramentas diferentes e evoluir constantemente como desenvolvedora.
 
-💡 Busco sempre criar projetos que resolvam **problemas reais** e contribuam para o crescimento técnico e profissional.
-
 ![](https://raw.githubusercontent.com/LaraScaranello/LaraScaranello/main/profile-summary-card-output/aura/0-profile-details.svg)
 
 <!--
@@ -15,13 +13,14 @@ Tenho experiência no desenvolvimento de **aplicações web e mobile**, atuando 
 -->
 
 
-Educação
+### Educação: 
+📓 Técnico em Informática (Concluído)
 
-📓 **Técnico em Informática** (Concluído)
+💻 Graduação pela Fatec Rio Preto em Análise e Desenvolvimento de Sistemas (ADS)
 
-💻 Graduação pela Fatec Rio Preto em **Análise e Desenvolvimento de Sistemas (ADS)**
-
-# 🚀 Tecnologias
+<br><br>
+##
+### 🚀 Tecnologias
 
 ![](https://raw.githubusercontent.com/LaraScaranello/LaraScaranello/main/profile-summary-card-output/aura/1-repos-per-language.svg)
 ![](https://raw.githubusercontent.com/LaraScaranello/LaraScaranello/main/profile-summary-card-output/aura/2-most-commit-language.svg)
@@ -31,8 +30,8 @@ Educação
 <tr>
 
 <td valign="top">
-
-### 🎨 Front-end
+  
+#### 🎨 Front-end
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-d6b849?logo=javascript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-cc6300?logo=html5&logoColor=white)
@@ -42,7 +41,7 @@ Educação
 
 <td valign="top">
 
-### ⚙️ Back-end
+#### ⚙️ Back-end
 
 ![PHP](https://img.shields.io/badge/PHP-7b7fb5?logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-e63946?logo=laravel&logoColor=white)
@@ -51,7 +50,7 @@ Educação
 
 <td valign="top">
 
-### 📱 Mobile
+#### 📱 Mobile
 
 ![Flutter](https://img.shields.io/badge/Flutter-5ec5eb?logo=flutter&logoColor=white)
 
@@ -59,7 +58,7 @@ Educação
 
 <td valign="top">
 
-### 🗄️ Banco de Dados
+#### 🗄️ Banco de Dados
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-5e60ce?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-ffffff?logo=mysql&logoColor=black)
@@ -76,7 +75,7 @@ Educação
 
 <td valign="top">
 
-### 🎤 Linguagens
+#### 🎤 Linguagens
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-7209b7?logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-0a8fb0?logo=python&logoColor=white)
@@ -85,7 +84,7 @@ Educação
 
 <td valign="top">
 
-### 🧩 Outros
+#### 🧩 Outros
 
 ![Linux](https://img.shields.io/badge/Linux-3a0ca3?logo=linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-7209b7?logo=docker&logoColor=white)
@@ -98,7 +97,7 @@ Educação
 </div>
 
 
-# 📬 Contato
+### 📞 Como Me Achar?
 
 <a href="https://www.linkedin.com/in/lara-selena-gon%C3%A7alves-scaranello-239410224/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -108,9 +107,7 @@ Educação
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br><br>
-
-💌 **laraselena0911@gmail.com**
+## 💌 vivianraquelbatista@gmail.com
 
 
 <div align="center">
@@ -118,4 +115,3 @@ Educação
 <img src="https://raw.githubusercontent.com/LaraScaranello/LaraScaranello/output/snake.svg" alt="Snake animation">
 
 </div>
-# LaraScaranello
