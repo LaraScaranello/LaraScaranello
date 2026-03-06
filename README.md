@@ -14,14 +14,12 @@ Tenho experiência no desenvolvimento de **aplicações web e mobile**, atuando 
 ![](https://raw.githubusercontent.com/LaraScaranello/LaraScaranello/main/profile-summary-card-output/aura/3-stats.svg)
 -->
 
----
 
-# 🎓 Educação
+Educação
 
 📓 **Técnico em Informática** (Concluído)
 
-💻 **FATEC Rio Preto**  
-Graduação em **Análise e Desenvolvimento de Sistemas (ADS)**
+💻 Graduação pela Fatec Rio Preto em **Análise e Desenvolvimento de Sistemas (ADS)**
 
 ---
 
@@ -74,10 +72,6 @@ Graduação em **Análise e Desenvolvimento de Sistemas (ADS)**
 </table>
 </div>
 
----
-
-# 💻 Linguagens e Ferramentas
-
 <div align="center">
 <table border="0">
 <tr>
@@ -105,7 +99,6 @@ Graduação em **Análise e Desenvolvimento de Sistemas (ADS)**
 </table>
 </div>
 
----
 
 # 📬 Contato
 
@@ -117,7 +110,9 @@ Graduação em **Análise e Desenvolvimento de Sistemas (ADS)**
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-📧 **laraselena0911@gmail.com**
+<br><br>
+
+💌 **laraselena0911@gmail.com**
 
 ---
 
